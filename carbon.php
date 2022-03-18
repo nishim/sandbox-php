@@ -1,6 +1,8 @@
 <?php
 require 'vendor/autoload.php';
 
+// Document: https://carbon.nesbot.com/docs/
+
 use Carbon\Carbon;
 
 echo "今日の0時ちょうど\n";
